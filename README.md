@@ -1,2 +1,2 @@
-# Linear_reg_on_car_prediction
+# car_prediction_with_linear-reg
 performing linear reg model to predict the car price
